@@ -2,13 +2,11 @@
 # @Author       : Chr_
 # @Date         : 2020-02-16 18:42:42
 # @LastEditors  : Chr_
-# @LastEditTime : 2020-07-17 20:40:57
+# @LastEditTime : 2020-07-17 23:12:18
 # @Description  : 加载器
 '''
 
-import sys
 import frida
-from typing import BinaryIO
 
 
 process_name = 'infosecadventures.fridademo'
