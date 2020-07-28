@@ -2,14 +2,14 @@
 # @Author       : Chr_
 # @Date         : 2020-02-16 18:42:42
 # @LastEditors  : Chr_
-# @LastEditTime : 2020-07-18 13:44:18
+# @LastEditTime : 2020-07-27 19:30:21
 # @Description  : 加载器
 '''
 
 import frida
 
 
-process_name = 'infosecadventures.fridademo'
+process_name = 'com.flare_on.flare'
 
 
 # 发送信息回调函数
